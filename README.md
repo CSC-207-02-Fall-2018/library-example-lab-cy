@@ -2,7 +2,7 @@
 
     /*****************************************************************
      * Carlton Segbefia, Zhao Yuanqi                                 *
-     * PO Box: 4439,                                                 *
+     * PO Box: 4439, 4871                                            *
      * Program for CSC 207                                           *
      *   Library example lab                                         *
      * Assignment for Wednesday, October 3rd                         *
